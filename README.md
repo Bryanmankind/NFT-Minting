@@ -16,7 +16,7 @@ Follow these steps to get the project up and running:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/nft-word-changing.git
+   git clone https://github.com/Bryanmankind/nft-word-changing.git
    cd nft-word-changing
    ```
 
